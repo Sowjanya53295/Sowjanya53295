@@ -1,20 +1,18 @@
-
 <div align="center" class="fadeIn">
-  <h1 class="shimmer">👋 Hi there, I'm Mandadapu Sowjanya</h1>
-  <h3 class="shimmer">💻 Full Stack Java Developer | React | Spring Boot | MySQL | AWS</h3>
+  <h1 style="color:#ff004f;">👋 Hi there, I'm Mandadapu Sowjanya</h1>
+  <h3 style="color:#ff004f;">💻 Full Stack Java Developer | React | Spring Boot | MySQL | AWS</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Passionate+About+Clean+Code;Building+Scalable+Apps;Learning+%26+Growing+Everyday+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Passionate+About+Clean+Code;Building+Scalable+Apps;Learning+%26+Growing+Everyday+🚀" alt="Typing Animation" />
 </div>
 
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 ### 👩‍💻 About Me  
-
-🌟 I’m a **Full Stack Java Developer** with hands-on experience building scalable applications using **Java, Spring Boot, React.js, MySQL**, and **AWS**.  
-🎯 I focus on **clean code, microservice architecture, and real-world problem-solving**.  
-💬 I love sharing knowledge and exploring **new technologies in backend and frontend development**.
-
+<div align="center" style="color:#f8f8ff;">
+🌟 I’m a Full Stack Java Developer with hands-on experience building scalable applications using Java, Spring Boot, React.js, MySQL, and AWS.  
+🎯 I focus on clean code, microservice architecture, and real-world problem-solving.  
+💬 I love sharing knowledge and exploring new technologies in backend and frontend development.
+</div>
 
 ---
 
@@ -22,79 +20,54 @@
 - 📝 **Tech Blogs:** [mandadapusowjanya.substack.com](https://mandadapusowjanya.substack.com/)  
 - 📧 **Email:** **mandadapusowjanya3@gmail.com**  
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link)  
-- ⚡ **Fun Fact:** “🌐I love exploring new technologies and frameworks”
+- ⚡ **Fun Fact:** “🌐 I love exploring new technologies and frameworks”
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/mandadapu-sowjanya-698a97274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mandadapusowjanya3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sowjanya53295" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mandadapu-sowjanya-698a97274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mandadapusowjanya3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff1493?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sowjanya53295" target="_blank"><img src="https://img.shields.io/badge/GitHub-8b008b?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,aws,postman,git,github,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,aws,postman,git,github,python&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Education & Experience  
+<div align="center" style="color:#f8f8ff;">
+🎓 **B.Tech in CSE** – NRI Institute of Technology, Vijayawada (2020 – 2024) | CGPA: 8.6/10  
 
-#### 🎓 Education
+💼 **Java Developer Trainee @ HulkHire Tech** | Jun 2025 – Aug 2025 | Hyderabad  
+Built secure Spring Boot payment system with AWS, reducing manual deployment effort by 50% and improving efficiency by 30%.
 
-Bachelor of Technology in Computer Science Engineering
-NRI Institute of Technology, Vijayawada (2020 – 2024) | CGPA: 8.6/10
+💼 **Analyst @ Virtusa Consulting Services** | Aug 2024 – Apr 2025 | Hyderabad  
+Optimized ad campaigns using Python & SQL, boosting ROI by 20% and reducing AHT by 15%.
 
----
+💼 **Front End Developer (Freelance)** | Apr 2024 – Jul 2024 | Hyderabad  
+Developed responsive React.js interfaces, enhancing UX and reducing UI load time by 20%.
 
-
-#### 💼 Experience
-#### Java Developer Trainee | HulkHire Tech | Jun 2025 – Aug 2025 | Hyderabad
-
-Built secure Spring Boot payment system with AWS
-
-Reduced manual deployment effort by 50% and improved efficiency by 30%
-
-#### Analyst | Virtusa Consulting Services | Aug 2024 – Apr 2025 | Hyderabad
-
-Optimized ad campaigns using Python and SQL
-
-Boosted ROI by 20% and reduced AHT by 15%
-
-#### Front End Developer | Freelance | Apr 2024 – Jul 2024 | Hyderabad
-
-Developed responsive React.js interfaces
-
-Enhanced UX and reduced UI load time by 20%
-
-#### Back End Developer Intern | HMI Engineering Services | Feb 2023 – Jun 2023 | Vijayawada
-
-Implemented scalable server logic
-
-Improved request handling efficiency by 15%
+💼 **Back End Developer Intern @ HMI Engineering Services** | Feb 2023 – Jun 2023 | Vijayawada  
+Implemented scalable server logic, improving request handling efficiency by 15%.
+</div>
 
 ---
 
-#### 🏆 Certifications
-
-#### SQL Basic – HackerRank
-
-#### Joy of Computing Using Python – NPTEL (75%)
-
-#### Hulk Hire Tech Internship – Java Developer Trainee
-
-#### Data Analytics & Visualization Job Simulation – Forage
-
-#### GenAI Powered Data Analytics – Forage
+### 🏆 Certifications  
+<div align="center" style="color:#f8f8ff;">
+SQL Basic – HackerRank | Joy of Computing Using Python – NPTEL (75%) | HulkHire Tech Internship  
+Data Analytics & Visualization – Forage | GenAI Powered Data Analytics – Forage
+</div>
 
 ---
 
-
-#### 📊 GitHub Analytics  
+### 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sowjanya53295&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -111,39 +84,20 @@ Improved request handling efficiency by 15%
 
 ### 🧩 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowjanya53295&theme=github-compact&bg_color=ffffff00&color=8a2be2&line=9370DB&point=9370DB&hide_border=true" width="95%"/>
-</p>
-
----
-
-### 🪄 Skill Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-FullStack-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/SpringBoot-Backend-brightgreen?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazonaws" />
-</p>
-
----
-
-### ✨ Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sowjanya53295&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowjanya53295&theme=github-dark&bg_color=0d0d0d&color=ff69b4&line=ff1493&point=ff69b4&hide_border=true" width="95%"/>
 </p>
 
 ---
 
 ### 💬 Quote  
+<div align="center" style="color:#ff69b4;">
 “First, solve the problem. Then, write the code.” — *John Johnson*
+</div>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
 </p>
 
 ---
 
-<h3 align="center">💫 Thanks for Visiting! Have a Great Day 🌸</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+<h3 align="center" style="color:#ff69b4;">💫 Thanks for Visiting! Have a Great Day 🌸</h3>
