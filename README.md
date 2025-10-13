@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowjanya53295 &label=Profile%20views&color=0e75b6&style=flat" alt="sowjanya53295" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sowjanya53295.github.io/Portfolio/](https://sowjanya53295.github.io/Portfolio/)
 
@@ -12,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link](https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link)
 
-- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
