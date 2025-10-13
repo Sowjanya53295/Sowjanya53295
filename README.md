@@ -1,11 +1,11 @@
-<div align="center">
+
+<div align="center" class="fadeIn">
   <h1 class="shimmer">👋 Hi there, I'm Mandadapu Sowjanya</h1>
   <h3 class="shimmer">💻 Full Stack Java Developer | React | Spring Boot | MySQL | AWS</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Clean+Code+%26+Creative+Designs;Backend+%26+Frontend+Integration;Building+Scalable+Java+Applications;Always+Learning+and+Innovating+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Passionate+About+Clean+Code;Building+Scalable+Apps;Learning+%26+Growing+Everyday+🚀" alt="Typing Animation" />
 </div>
 
----
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
@@ -22,7 +22,7 @@
 - 📝 **Tech Blogs:** [mandadapusowjanya.substack.com](https://mandadapusowjanya.substack.com/)  
 - 📧 **Email:** **mandadapusowjanya3@gmail.com**  
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link)  
-- ⚡ **Fun Fact:** “I turn ☕ into 💻 and ideas into innovation!”
+- ⚡ **Fun Fact:** “🌐I love exploring new technologies and frameworks”
 
 ---
 
@@ -30,7 +30,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mandadapu-sowjanya-698a97274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mandadapusowjanya3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mandadapusowjanya.substack.com/" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
   <a href="https://github.com/sowjanya53295" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -97,15 +96,15 @@ Improved request handling efficiency by 15%
 
 #### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowjanya53295&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sowjanya53295&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sowjanya53295&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya53295&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya53295&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya53295&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -136,8 +135,7 @@ Improved request handling efficiency by 15%
 ---
 
 ### 💬 Quote  
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*  
-
+“First, solve the problem. Then, write the code.” — *John Johnson*
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 </p>
