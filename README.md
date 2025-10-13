@@ -1,28 +1,151 @@
-<h1 align="center">Hi 👋, I'm Mandadapu Sowjanya</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<div align="center">
+  <h1 class="shimmer">👋 Hi there, I'm Mandadapu Sowjanya</h1>
+  <h3 class="shimmer">💻 Full Stack Java Developer | React | Spring Boot | MySQL | AWS</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Clean+Code+%26+Creative+Designs;Backend+%26+Frontend+Integration;Building+Scalable+Java+Applications;Always+Learning+and+Innovating+🚀" alt="Typing Animation" />
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+
+### 👩‍💻 About Me  
+
+🌟 I’m a **Full Stack Java Developer** with hands-on experience building scalable applications using **Java, Spring Boot, React.js, MySQL**, and **AWS**.  
+🎯 I focus on **clean code, microservice architecture, and real-world problem-solving**.  
+💬 I love sharing knowledge and exploring **new technologies in backend and frontend development**.
 
 
-- 👨‍💻 All of my projects are available at [https://sowjanya53295.github.io/Portfolio/](https://sowjanya53295.github.io/Portfolio/)
+---
 
-- 📝 I regularly write articles on [https://mandadapusowjanya.substack.com/](https://mandadapusowjanya.substack.com/)
+- 🔗 **Portfolio:** [sowjanya53295.github.io/Portfolio](https://sowjanya53295.github.io/Portfolio/)  
+- 📝 **Tech Blogs:** [mandadapusowjanya.substack.com](https://mandadapusowjanya.substack.com/)  
+- 📧 **Email:** **mandadapusowjanya3@gmail.com**  
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link)  
+- ⚡ **Fun Fact:** “I turn ☕ into 💻 and ideas into innovation!”
 
-- 📫 How to reach me **mandadapusowjanya3@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link](https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mandadapu-sowjanya-698a97274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mandadapu-sowjanya-698a97274/" height="30" width="40" /></a>
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mandadapu-sowjanya-698a97274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mandadapusowjanya3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mandadapusowjanya.substack.com/" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="https://github.com/sowjanya53295" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowjanya53295&show_icons=true&locale=en&layout=compact" alt="sowjanya53295" /></p>
+### 🛠️ Tech Stack & Tools  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,aws,postman,git,github,python&theme=light" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowjanya53295&show_icons=true&locale=en" alt="sowjanya53295" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowjanya53295&" alt="sowjanya53295" /></p>
+### 🚀 Featured Projects  
+
+#### 🎓 Education
+
+Bachelor of Technology in Computer Science Engineering
+NRI Institute of Technology, Vijayawada (2020 – 2024) | CGPA: 8.6/10
+
+---
+
+
+#### 💼 Experience
+#### Java Developer Trainee | HulkHire Tech | Jun 2025 – Aug 2025 | Hyderabad
+
+Built secure Spring Boot payment system with AWS
+
+Reduced manual deployment effort by 50% and improved efficiency by 30%
+
+#### Analyst | Virtusa Consulting Services | Aug 2024 – Apr 2025 | Hyderabad
+
+Optimized ad campaigns using Python and SQL
+
+Boosted ROI by 20% and reduced AHT by 15%
+
+#### Front End Developer | Freelance | Apr 2024 – Jul 2024 | Hyderabad
+
+Developed responsive React.js interfaces
+
+Enhanced UX and reduced UI load time by 20%
+
+#### Back End Developer Intern | HMI Engineering Services | Feb 2023 – Jun 2023 | Vijayawada
+
+Implemented scalable server logic
+
+Improved request handling efficiency by 15%
+
+---
+
+#### 🏆 Certifications
+
+#### SQL Basic – HackerRank
+
+#### Joy of Computing Using Python – NPTEL (75%)
+
+#### Hulk Hire Tech Internship – Java Developer Trainee
+
+#### Data Analytics & Visualization Job Simulation – Forage
+
+#### GenAI Powered Data Analytics – Forage
+
+---
+
+
+#### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sowjanya53295&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sowjanya53295&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya53295&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
+---
+
+### 🧩 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowjanya53295&theme=github-compact&bg_color=ffffff00&color=8a2be2&line=9370DB&point=9370DB&hide_border=true" width="95%"/>
+</p>
+
+---
+
+### 🪄 Skill Badges  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FullStack-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/SpringBoot-Backend-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazonaws" />
+</p>
+
+---
+
+### ✨ Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sowjanya53295&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 💬 Quote  
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+</p>
+
+---
+
+<h3 align="center">💫 Thanks for Visiting! Have a Great Day 🌸</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
