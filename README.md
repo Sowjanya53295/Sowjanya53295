@@ -40,9 +40,16 @@
 
 ---
 
-### 🚀 Education & Experience  
+### 🎓 Education
+
+Bachelor of Technology in Computer Science Engineering NRI Institute of Technology, Vijayawada (2020 – 2024) | CGPA: 8.6/10
+
+
+---
+
+ 
+### 🚀 Experience  
 <div align="center" style="color:#f8f8ff;">
-🎓 **B.Tech in CSE** – NRI Institute of Technology, Vijayawada (2020 – 2024) | CGPA: 8.6/10  
 
 💼 **Java Developer Trainee @ HulkHire Tech** | Jun 2025 – Aug 2025 | Hyderabad  
 Built secure Spring Boot payment system with AWS, reducing manual deployment effort by 50% and improving efficiency by 30%.
