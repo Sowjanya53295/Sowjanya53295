@@ -76,7 +76,7 @@ Data Analytics & Visualization – Forage | GenAI Powered Data Analytics – For
 
 ### 📊 GitHub Analytics  
 <p align="center">
-<img alt="GitHub Stats" />
+<p>"GitHub Stats"</p>
 </p>
 
 <p align="center">
