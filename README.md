@@ -1,6 +1,6 @@
 <div align="center" class="fadeIn">
   <h1 style="color:#ff004f;">👋 Hi there, I'm Mandadapu Sowjanya</h1>
-  <h3 style="color:#ff004f;">💻 Full Stack Java Developer | Spring Boot |RESTFUL API | MySQL | AWS </h3>
+  <h3 style="color:#ff004f;">💻 Full Stack Java Developer | Spring Boot |RESTFul APIs | MySQL | MicroServices| FrontEnd | AWS </h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Passionate+About+Clean+Code;Building+Scalable+Apps;Learning+%26+Growing+Everyday+🚀" alt="Typing Animation" />
 </div>
@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+- 💻 **LeetCode:** https://leetcode.com/u/mandadapusowjanya3/
 - 🔗 **Portfolio:** [sowjanya53295.github.io/Portfolio](https://sowjanya53295.github.io/Portfolio/)  
 - 📝 **Tech Blogs:** [mandadapusowjanya.substack.com](https://mandadapusowjanya.substack.com/)  
 - 📧 **Email:** **mandadapusowjanya3@gmail.com**  
@@ -39,6 +39,24 @@
 </p>
 
 ---
+## 👨‍💻 Coding Profiles
+
+💻 LeetCode: https://leetcode.com/u/mandadapusowjanya3/
+
+## 🧠 Problem Solving
+
+I regularly practice Data Structures and Algorithms on LeetCode, focusing on:
+
+* Arrays
+* Strings
+* Sliding Window
+* Hashing
+* Two Pointers
+* Recursion
+* LinkedList
+* Stack
+* Queue
+
 
 ### 🎓 Education
 
