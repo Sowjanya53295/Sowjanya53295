@@ -16,7 +16,7 @@
 
 ---
 - 💻 **LeetCode:** https://leetcode.com/u/mandadapusowjanya3/
-- 🔗 **Portfolio:** [sowjanya53295.github.io/Portfolio](https://sowjanya53295.github.io/Portfolio/)  
+- 🔗 **Portfolio:** [sowjanya53295.github.io/Portfolio](https://sowjanya53295.github.io/Portfolioo/)  
 - 📝 **Tech Blogs:** [mandadapusowjanya.substack.com](https://mandadapusowjanya.substack.com/)  
 - 📧 **Email:** **mandadapusowjanya3@gmail.com**  
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link)  
