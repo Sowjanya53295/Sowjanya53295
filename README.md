@@ -19,7 +19,7 @@
 - 🔗 **Portfolio:** [https://sowjanya53295.github.io/Portfolioo/](https://sowjanya53295.github.io/Portfolioo/)  
 - 📝 **Tech Blogs:** [mandadapusowjanya.substack.com](https://mandadapusowjanya.substack.com/)  
 - 📧 **Email:** **mandadapusowjanya3@gmail.com**  
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1J6OX4zkrg01OQAs8g2nma45MgNaVyfly/view?usp=drive_link)  
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1OoWEHtVzlUpQ8ZaRuw9m66BIUIxXs6SQ/view?usp=drive_link)  
 - ⚡ **Fun Fact:** “🌐 I love exploring new technologies and frameworks”
 
 ---
