@@ -2,7 +2,7 @@
   <h1 style="color:#ff004f;">👋 Hi there, I'm Mandadapu Sowjanya</h1>
   <h3 style="color:#ff004f;">💻 Java Developer | Spring Boot | RESTFul APIs | MySQL | MicroServices| Front End | AWS </h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Passionate+About+Clean+Code;Building+Scalable+Apps;Learning+%26+Growing+Everyday+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=500&lines=Java+Developer;Passionate+About+Clean+Code;Building+Scalable+Apps;Learning+%26+Growing+Everyday+🚀" alt="Typing Animation" />
 </div>
 
 <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
