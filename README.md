@@ -1,6 +1,6 @@
 <div align="center" class="fadeIn">
   <h1 style="color:#ff004f;">👋 Hi there, I'm Mandadapu Sowjanya</h1>
-  <h3 style="color:#ff004f;">💻 Java Developer | Spring Boot |RESTFul APIs | MySQL | MicroServices| Front End | AWS </h3>
+  <h3 style="color:#ff004f;">💻 Java Developer | Spring Boot | RESTFul APIs | MySQL | MicroServices| Front End | AWS </h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Passionate+About+Clean+Code;Building+Scalable+Apps;Learning+%26+Growing+Everyday+🚀" alt="Typing Animation" />
 </div>
@@ -76,7 +76,8 @@ Built secure Spring Boot payment system with AWS, reducing manual deployment eff
 Optimized ad campaigns using Python & SQL, boosting ROI by 20% and reducing AHT by 15%.
 
 💼 **Java BackEnd Developer (Freelance)** | Apr 2024 – Jul 2024 | Hyderabad  
-Freelance Java Backend Developer with hands-on experience in Java, Spring Boot, REST APIs, and MySQL. Passionate about building scalable backend applications and continuously improving problem-solving skills.
+Developed scalable REST APIs using Java and Spring Boot, optimizing backend performance and reducing API
+response time by 25%.
 
 💼 **BackEnd Developer Intern @ HMI Engineering Services** | Feb 2023 – Jun 2023 | Vijayawada  
 Implemented scalable server logic, improving request handling efficiency by 15%.
